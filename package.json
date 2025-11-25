@@ -1,0 +1,26 @@
+{
+  "name": "roman-numeral-api",
+  "version": "1.0.0",
+  "description": "API para convertir números romanos y arábigos.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "roman",
+    "arabic",
+    "api",
+    "express",
+    "vercel"
+  ],
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
